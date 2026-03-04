@@ -1,5 +1,5 @@
 # fmg Front End Developer Assignment
-Please build a web page following the design provided.
+Please build a web page following the design provided in the "example.jpg" file within this repository.
 Use whatever front end framework you are comfortable with (eg Bootstrap, Foundation).
 Feel free to use placeholders for the images and lorem ipsum text.
 
